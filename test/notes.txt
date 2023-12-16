@@ -1,0 +1,1 @@
+use argocd login locahost:32108 to login to argocd before use argocd app get nginxtest-app
